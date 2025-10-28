@@ -1,0 +1,56 @@
+**# 📨 Java TCP Chat Tətbiqi**
+
+
+
+**Bu layihə Java Socket API istifadə edilərək hazırlanmış real-time (anlıq) konsol əsaslı chat tətbiqidir.**
+
+**Server və müştəri (client) arasında iki-tərəfli mesaj mübadiləsini təmin edir.**
+
+
+
+**---**
+
+
+
+**## 🚀 Xüsusiyyətlər**
+
+
+
+**✅ TCP protokolu ilə real-time mesajlaşma**  
+
+**✅ Multi-threading dəstəyi (eyni anda oxuma və yazma)**  
+
+**✅ Konsol üzərindən ikitərəfli əlaqə**  
+
+**✅ IO Stream (BufferedReader/BufferedWriter) istifadə olunur**  
+
+**✅ Server və Client ayrılmışdır**  
+
+
+
+**---**
+
+
+
+**## 🏗️ Texnologiyalar**
+
+
+
+**- Java**
+
+**- Socket API**
+
+**- Multi-threading**
+
+**- IO Streams**
+
+
+
+
+**- \*\*Server\*\*: Bağlantını gözləyir və client-lə mesaj mübadiləsini idarə edir.**
+
+**- \*\*Client\*\*: Serverə qoşularaq mesaj göndərib qəbul edir.**
+
+
+
+
